@@ -132,8 +132,6 @@ button {
     align-items: center;
 }
 
-
-
 button:hover {
     background-color: var(--primary-color);
     transform: translateY(-2px);
